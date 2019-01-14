@@ -1,0 +1,13 @@
+mainnet: false
+testnet_truncate_snapshot: 3000
+http_endpoints:
+  - http://localhost:8888
+snapshot:
+  all: ./data/accounts_info_bos_snapshot.airdrop.csv
+  normal: ./data/accounts_info_bos_snapshot.airdrop.normal.csv
+  msig: ./data/accounts_info_bos_snapshot.airdrop.msig.csv
+  msig_json: ./data/accounts_info_bos_snapshot.airdrop.msig.json
+creator:
+  name: bos.airdrop
+  pubkey: EOS7dFpX3B5xCyudno88n4JYN63vnNs9MrFrAg6dMEbqTK5m6w9Ex
+  prikey: 5JtrRrtLwDKA2U8kF5KZWaN9Bjrk7fAuY3n4NmiqyjQ5Nd7dCpv
