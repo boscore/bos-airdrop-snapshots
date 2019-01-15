@@ -37,7 +37,7 @@ bosa create
 
 ### UpdateAuth
 
-Because we do a mapping of EOS Mainnet accounts on BOS, we should update their permission after create their accounts using a predefined public key.
+Because we do a mapping of EOS Mainnet accounts on BOS, we should update their permission after creating their accounts using a pre-defined public key.
 
 ```
 bosa updateauth
