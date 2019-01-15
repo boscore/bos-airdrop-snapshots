@@ -21,6 +21,6 @@ Our strategy for generating the BOS Mainnet airdrop snapshot is as follows:
 ### Total
 
 - Create Accounts Usage: `315475.0000 BOS`
-- Airdrop Usage: `49841985.9858 BOS`
-- Total Usage: `50157460.9858 BOS`
+- Airdrop Usage: `50089743.7320 BOS`
+- Total Usage: `50405218.7320 BOS`
 - Total Accounts: `630950`
