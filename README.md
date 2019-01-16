@@ -17,10 +17,11 @@ Our strategy for generating the BOS Mainnet airdrop snapshot is as follows:
 3. Generate a random name for EOS Mainnet accounts;
 4. Accounts are created with: `0.3000 BOS` ram, `0.1000 BOS` NET  and `0.1000 BOS` CPU on BOS Mainnet;
 5. Generate the snapshot for airdrop.
+6. Every account will keep 10 BOS at most, and the left will be delegated to CPU and NET 
 
 ### Total
 
-- Create Accounts Usage: `315475.0000 BOS`
-- Airdrop Usage: `50088508.9033 BOS`
-- Total Usage: `50403983.9033 BOS`
-- Total Accounts: `630950`
+- Create Accounts Usage: `315475 BOS`
+- Airdrop Usage: `50088509 BOS`
+- Total Usage: `50403984 BOS`
+- Total Accounts: `630949`
