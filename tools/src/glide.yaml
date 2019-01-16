@@ -1,0 +1,4 @@
+package: gitlab.com/boscore/bos-airdrop-go
+import:
+- package: github.com/eoscanada/eos-go
+  version: v0.8.1
