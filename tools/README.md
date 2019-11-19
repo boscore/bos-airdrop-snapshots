@@ -72,9 +72,9 @@ The table below show their meanings:
 
 | Key                       | Meanings                                                     |
 | ------------------------- | ------------------------------------------------------------ |
-| mainnet                   | If true, will create all the accounts in the snapshot.       |
-| tps.                      | Tps for sending the transactions.       |
-| testnet_truncate_snapshot | if mainnet is false, will only create `testnet_truncate_snapshot` numbers of accounts in the snapshot. |
+| mainnet                   | `true`: all the accounts in the snapshot will be created; `false` only `testnet_truncate_snapshot` numbers of accounts created    |
+| tps                       | Tps for sending the transactions.       |
+| testnet_truncate_snapshot | Just for testing, specify how many accounts create           |
 | http_endpoints            | A list of endpoints for `bosa` to send transactions.         |
 | snapshot.normal           | Snapshot of BOS Mainnet accounts of non-msig accounts.       |
 | snapshot.msig_json        | Snapshot of BOS Mainnet accounts of msig accounts.           |

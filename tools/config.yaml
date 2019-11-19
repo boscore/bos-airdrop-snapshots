@@ -4,9 +4,9 @@ tps: 300
 http_endpoints:
   - http://localhost:8888
 snapshot:
-  normal: ./data/accounts_info_bos_snapshot.airdrop.normal.csv
-  msig_json: ./data/accounts_info_bos_snapshot.airdrop.msig.json
+  normal: ../accounts_info_bos_snapshot.airdrop.normal.csv
+  msig_json: ../accounts_info_bos_snapshot.airdrop.msig.json
 creator:
-  name: bos.airdrop
+  name: airdrop.bos
   prikey: 5JtrRrtLwDKA2U8kF5KZWaN9Bjrk7fAuY3n4NmiqyjQ5Nd7dCpv
 msig_prikey: 5HvFSTGYTcvzKZGUwqh3CdCfmetJF3FUQsu9u6RX4Mcc9ewFUMp
