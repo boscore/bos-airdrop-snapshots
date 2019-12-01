@@ -25,3 +25,12 @@ Our strategy for generating the BOS Mainnet airdrop snapshot is as follows:
 - Airdrop Usage: `50088509 BOS`
 - Total Usage: `50403984 BOS`
 - Total Accounts: `630949`
+
+
+### Inactive Airdrop BOS Burning Proposal
+
+BOSCore's main network started with BOS token airdrops on more than 630,000 accounts, of which there are still a lot of accounts that have never been activated before (in this proposal, "inactive accounts" means `auth_sequence=0||auth_sequence=2`). In order to better promote the follow-up development of the BOSCore mainnet and community, this proposal proposes to burn the BOS tokens of the inactive accounts and will be implemented within 2 weeks after the proposal is approved.
+
+The snapshot for burning time is `2019-11-27 03:26:27 UTC-0`，block height is `54,171,828`. The inactive accounts file is [unactive_airdrop_accounts.csv](./unactive_airdrop_accounts.csv).
+
+
